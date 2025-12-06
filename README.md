@@ -101,7 +101,7 @@ This step creates:
 2. Compress the updated application  
 3. Go to Elastic Beanstalk → Environment → **Upload and Deploy**  
 4. Select the new ZIP and deploy  
-5. Verify updates using the Elastic Beanstalk environment URL:  
+5. Verify updates using the Elastic Beanstalk environment URL  
 
 ---
 
