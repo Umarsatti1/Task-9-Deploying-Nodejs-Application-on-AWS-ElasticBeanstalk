@@ -3,6 +3,10 @@
 
 This project demonstrates how to deploy a lightweight Node.js application using **AWS Elastic Beanstalk**, configure environment settings, enable auto scaling, and monitor application health through AWS CloudWatch.
 
+---
+
+## Architecture Diagram
+
 <p align="center">
   <img src="./diagram/Architecture Diagram.png" alt="Architecture Diagram" width="850">
 </p>
