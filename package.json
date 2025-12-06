@@ -1,0 +1,24 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "A simple Express application for demonstration.",
+  "main": "app.js",
+  "engines": {
+    "node": "22.19.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "aws",
+    "beanstalk"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
